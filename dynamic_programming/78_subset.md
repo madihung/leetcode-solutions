@@ -14,7 +14,7 @@ The solution must not contain duplicate subsets
 
 **Decision Tree**
 
-![F2FE14E7-5DB1-4B4E-ABB7-C486EF2504BD.jpeg](/images/F2FE14E7-5DB1-4B4E-ABB7-C486EF2504BD.jpeg)
+![subsets.jpeg](/images/subsets.jpeg)
 
 ```python
 def subsets(self, nums: List[int]) -> List[List[int]]:
