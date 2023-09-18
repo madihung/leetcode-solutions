@@ -2,8 +2,13 @@
 Compilation of Leetcode problem breakdown and solutions
 
 <h3>Problem List</h3>
-<ins>Dynamic Programming</ins>  
 
+<ins>Backtracking</ins> 
 - Subsets
 - Permutations
+  
+<br></br>
+<ins>Dynamic Programming</ins>
+- Climbing Stairs
+- House Robber II
 
