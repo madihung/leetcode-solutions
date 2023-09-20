@@ -11,4 +11,5 @@ Compilation of Leetcode problem breakdown and solutions
 <ins>Dynamic Programming</ins>
 - Climbing Stairs
 - House Robber II
+- Longest Substring
 
