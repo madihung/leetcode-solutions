@@ -17,4 +17,5 @@ Compilation of Leetcode problem breakdown and solutions
 - Climbing Stairs
 - House Robber II
 - Longest Substring
+- Decode Ways
 
